@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+chaincodeInvoke	scripts/utils.sh	/^chaincodeInvoke() {$/;"	f
+chaincodeQuery	scripts/utils.sh	/^chaincodeQuery() {$/;"	f
+createChannel	scripts/script.sh	/^createChannel() {$/;"	f
+createConfigUpdate	scripts/utils.sh	/^createConfigUpdate() {$/;"	f
+fetchChannelConfig	scripts/utils.sh	/^fetchChannelConfig() {$/;"	f
+installChaincode	scripts/utils.sh	/^installChaincode() {$/;"	f
+instantiateChaincode	scripts/utils.sh	/^instantiateChaincode() {$/;"	f
+joinChannel	scripts/script.sh	/^joinChannel () {$/;"	f
+joinChannelWithRetry	scripts/utils.sh	/^joinChannelWithRetry() {$/;"	f
+parsePeerConnectionParameters	scripts/utils.sh	/^parsePeerConnectionParameters() {$/;"	f
+setGlobals	scripts/utils.sh	/^setGlobals() {$/;"	f
+setOrdererGlobals	scripts/utils.sh	/^setOrdererGlobals() {$/;"	f
+signConfigtxAsPeerOrg	scripts/utils.sh	/^signConfigtxAsPeerOrg() {$/;"	f
+updateAnchorPeers	scripts/utils.sh	/^updateAnchorPeers() {$/;"	f
+upgradeChaincode	scripts/utils.sh	/^upgradeChaincode() {$/;"	f
+verifyResult	scripts/utils.sh	/^verifyResult() {$/;"	f
